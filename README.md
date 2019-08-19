@@ -39,44 +39,44 @@ Do unto others as you would have them do to you (the ethic of reciprocity; origi
 
 Equity over time. Think of it as extending the golden rule through time… Do unto future generations as you would have them do unto you. (Robert Gilman, context institute)
 
-Living and working together for a common good. (Japanese principle of “Kyosei”)
+Living and working together for a common good. (Japanese principle of “Kyosei”).
 
-Don’t eat your seed corn (farmer colloquialism)
+Don’t eat your seed corn (farmer colloquialism).
 
-Waste = Food (Cradle to Cradle/McDonough & Braungart)
+Waste = Food (Cradle to Cradle/McDonough & Braungart).
 
 Improving the quality of human life while living within the carrying capacity of life’s supporting systems (? attribute missing in my notes ?)\
 
-Understanding the interconnections among economy, society, and environment (Everything is connected)
+Understanding the interconnections among economy, society, and environment (Everything is connected).
 
-It’s all the Blanket (I Heart Huckabees)
+It’s all the Blanket (I Heart Huckabees).
 
-Living within limits
+Living within limits.
 
-the Welfare of All Life (Massive Change/Bruce Mau)
+the Welfare of All Life (Massive Change/Bruce Mau).
 
-All life should have the opportunity to Flourish (John Ehrenfeld)
+All life should have the opportunity to Flourish (John Ehrenfeld).
 
-These definitions deal with ethics and foresight… and understanding that everything is connected
+These definitions deal with ethics and foresight… and understanding that everything is connected.
 
 Sustainable design is design that factors in these ideas. Good Morality; Good Foresight; Good Accounting for Interconnected systems… Design that accounts for people in the present AND in the future.
 
-Restorative; Preventative; Adaptive; Resilience
+Restorative; Preventative; Adaptive; Resilience.
 
 Design that leaves the world better than we found it.
 
-Affluence without guilt; not sacrifice and restriction. (Alex Steffen, founder of WorldChanging)
+Affluence without guilt; not sacrifice and restriction. (Alex Steffen, founder of WorldChanging).
 
 ### EVERYTHING IS CONNECTED
-This is the key aphorism to walk away with. Each choice; each action is tied to so many others… And a “human” choice cannot be separated from societal or environmental ones. Every choice/action has impact everywhere
+This is the key aphorism to walk away with. Each choice; each action is tied to so many others… And a “human” choice cannot be separated from societal or environmental ones. Every choice/action has impact everywhere.
 
 [Nested diagrams?]
 
 ## What is Sustainable Design???
 
-Green Graphic Design is about using the power of design to shift the status quo toward sustainable solutions (wait, but what does sustainable mean here???) (Brian Dougherty, _Green Graphic Design_)
+Green Graphic Design is about using the power of design to shift the status quo toward sustainable solutions (wait, but what does sustainable mean here???) (Brian Dougherty, _Green Graphic Design_).
 
-Most designers are in the representation business, so their first response has been to design a poster about sustainability. But the transition to sustainability is not about messages, it is about activity (action?) (John Thackara) [well, aren’t messages/communication necessary for action/activity???]
+Most designers are in the representation business, so their first response has been to design a poster about sustainability. But the transition to sustainability is not about messages, it is about activity (action?) (John Thackara) [well, aren’t messages/communication necessary for action/activity???].
 
 No one wakes up with the goal of destroying the planet each morning. Yet, each day our collective choices do just that.
 
@@ -112,5 +112,8 @@ Design has helped to change and shape the world (for better or for worse) in gig
 ## Further reading/reference/etc.
 - Cradle to Cradle
 - The hanover principles
+- Bruce Mau essay
+- Flourishing
+- Total Beauty of Sustainable Products
+- Green Graphic Design
 - [fill this in later… whew!]
-
