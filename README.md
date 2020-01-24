@@ -1,5 +1,9 @@
 # What Is Sustainability / What is Sustainable Graphic Design
 
+```
+Using https://git-lfs.github.com/ for images
+```
+
 trying to provide a working definition of sustainability -- well, several different working definitions and understandings of "sustainability"
 
 ```
